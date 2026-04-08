@@ -16,7 +16,7 @@ export const metadata: Metadata = {
   title: "Base Tap Tap Mini",
   description: "Your fun mini tap game",
   other: {
-    "base:app_id": "69d37b1980e73e14cb680369", // <-- Add your Base App ID here
+    "base:app_id": "69d6353c3966b044539edc11", // <-- Add your Base App ID here
   },
 };
 
