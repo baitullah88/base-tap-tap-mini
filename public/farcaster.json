@@ -1,9 +1,4 @@
 {
-  "accountAssociation": {
-    "header": "eyJhbGciOiJFZERTQSIsImtpZCI6ImY0OGY3M...", 
-    "payload": "eyJkb21haW4iOiJiYXNlLXRhcC10YXAtbWluaS52ZXJjZWwuYXBwIn0",
-    "signature": "..."
-  },
   "frame": {
     "version": "1.0.0",
     "name": "Base Tap Tap Mini",
